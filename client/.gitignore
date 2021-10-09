@@ -1,0 +1,9 @@
+node_modules/
+.cache/
+dist/
+.env/
+coverage/
+.DS_Store/
+.vscode/
+.parcel-cache/
+*.log

@@ -1,0 +1,1556 @@
+{
+  "animals": [
+    {
+      "id": 53075365,
+      "organization_id": "NY1119",
+      "url": "https://www.petfinder.com/dog/mollie-53075365/ny/gloversville/fulton-county-regional-spca-ny1119/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": false },
+      "tags": [],
+      "name": "Mollie",
+      "description": "This little cutie is Mollie! She is only 8 mos old and wants to learn all the things! She is...",
+      "organization_animal_id": "D21083os",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T10:08:35+0000",
+      "published_at": "2021-09-24T10:08:35+0000",
+      "distance": 58.1511,
+      "contact": {
+        "email": "contact@fcrspca.org",
+        "phone": "(518) 725-5956",
+        "address": {
+          "address1": "117 West Fulton Street",
+          "address2": null,
+          "city": "Gloversville",
+          "state": "NY",
+          "postcode": "12078",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53075365" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ny1119" }
+      }
+    },
+    {
+      "id": 53075366,
+      "organization_id": "NY1119",
+      "url": "https://www.petfinder.com/dog/moe-53075366/ny/gloversville/fulton-county-regional-spca-ny1119/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "German Shepherd Dog",
+        "secondary": "Labrador Retriever",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [],
+      "name": "Moe",
+      "description": "Sweet little Moe is looking for a family to teach him and love him! He has no restrictions and would...",
+      "organization_animal_id": "D21084OS",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T10:08:35+0000",
+      "published_at": "2021-09-24T10:08:35+0000",
+      "distance": 58.1511,
+      "contact": {
+        "email": "contact@fcrspca.org",
+        "phone": "(518) 725-5956",
+        "address": {
+          "address1": "117 West Fulton Street",
+          "address2": null,
+          "city": "Gloversville",
+          "state": "NY",
+          "postcode": "12078",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53075366" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ny1119" }
+      }
+    },
+    {
+      "id": 53075367,
+      "organization_id": "NY1119",
+      "url": "https://www.petfinder.com/dog/brindin-53075367/ny/gloversville/fulton-county-regional-spca-ny1119/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Hound",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Brindin",
+      "description": "If you are looking for a puppy with lot of puppy energy we have the boy for you! Brindin is...",
+      "organization_animal_id": "D21089TF",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T10:08:35+0000",
+      "published_at": "2021-09-24T10:08:35+0000",
+      "distance": 58.1511,
+      "contact": {
+        "email": "contact@fcrspca.org",
+        "phone": "(518) 725-5956",
+        "address": {
+          "address1": "117 West Fulton Street",
+          "address2": null,
+          "city": "Gloversville",
+          "state": "NY",
+          "postcode": "12078",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53075367" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ny1119" }
+      }
+    },
+    {
+      "id": 53075068,
+      "organization_id": "NY793",
+      "url": "https://www.petfinder.com/cat/oakley-53075068/ny/greene/every-dogs-dream-ny793/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Oakley",
+      "description": null,
+      "organization_animal_id": "ps_54809565",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T09:16:27+0000",
+      "published_at": "2021-09-24T09:16:27+0000",
+      "distance": 48.3559,
+      "contact": {
+        "email": "everydogsdreamadopt@gmail.com",
+        "phone": "(607) 798-1430",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Greene",
+          "state": "NY",
+          "postcode": "13778",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53075068" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny793" }
+      }
+    },
+    {
+      "id": 53072310,
+      "organization_id": "NY1346",
+      "url": "https://www.petfinder.com/cat/binx-53072310/ny/horseheads/horseheads-community-animal-shelter-ny1346/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": "Black", "secondary": null, "tertiary": null },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": null, "cats": true },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Curious",
+        "Funny",
+        "Athletic",
+        "Dignified",
+        "Loves kisses"
+      ],
+      "name": "Binx",
+      "description": "Binx is a 4 month old, male kitten, full of energy and curiosity. He loves playing with the other kittens...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/1/?bust=1632448596\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/1/?bust=1632448596\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/1/?bust=1632448596\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/1/?bust=1632448596"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/2/?bust=1632448597\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/2/?bust=1632448597\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/2/?bust=1632448597\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/2/?bust=1632448597"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/3/?bust=1632448681\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/3/?bust=1632448681\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/3/?bust=1632448681\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/3/?bust=1632448681"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/1/?bust=1632448596\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/1/?bust=1632448596\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/1/?bust=1632448596\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072310/1/?bust=1632448596"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:56:38+0000",
+      "published_at": "2021-09-24T01:56:38+0000",
+      "distance": 87.6273,
+      "contact": {
+        "email": "office@horseheadscommunityanimalshelter.com",
+        "phone": "6077393945",
+        "address": {
+          "address1": "150 Wygant Road",
+          "address2": null,
+          "city": "Horseheads",
+          "state": "NY",
+          "postcode": "14845",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072310" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny1346" }
+      }
+    },
+    {
+      "id": 53072297,
+      "organization_id": "NY1346",
+      "url": "https://www.petfinder.com/cat/creamsicle-53072297/ny/horseheads/horseheads-community-animal-shelter-ny1346/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Long Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Orange \u0026 White",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": null, "cats": true },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Gentle",
+        "Independent",
+        "Dignified"
+      ],
+      "name": "Creamsicle",
+      "description": "Creamsicle is looking for her perfect forever home. She is about 4 months old, and has a medium length coat....",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/1/?bust=1632448358\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/1/?bust=1632448358\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/1/?bust=1632448358\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/1/?bust=1632448358"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/2/?bust=1632448359\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/2/?bust=1632448359\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/2/?bust=1632448359\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/2/?bust=1632448359"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/3/?bust=1632448359\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/3/?bust=1632448359\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/3/?bust=1632448359\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/3/?bust=1632448359"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/1/?bust=1632448358\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/1/?bust=1632448358\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/1/?bust=1632448358\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072297/1/?bust=1632448358"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:52:40+0000",
+      "published_at": "2021-09-24T01:52:40+0000",
+      "distance": 87.6273,
+      "contact": {
+        "email": "office@horseheadscommunityanimalshelter.com",
+        "phone": "6077393945",
+        "address": {
+          "address1": "150 Wygant Road",
+          "address2": null,
+          "city": "Horseheads",
+          "state": "NY",
+          "postcode": "14845",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072297" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny1346" }
+      }
+    },
+    {
+      "id": 53072280,
+      "organization_id": "NY64",
+      "url": "https://www.petfinder.com/cat/lucy-53072280/ny/albany/animalovers-ny64/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Dilute Tortoiseshell",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": ["Friendly"],
+      "name": "Lucy",
+      "description": "NOTE: We do not adopt our fosters to anyone further then a 1 hr drive from Albany, NY\n\nI was...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072280/1/?bust=1632447989\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072280/1/?bust=1632447989\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072280/1/?bust=1632447989\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072280/1/?bust=1632447989"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072280/1/?bust=1632447989\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072280/1/?bust=1632447989\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072280/1/?bust=1632447989\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072280/1/?bust=1632447989"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:46:30+0000",
+      "published_at": "2021-09-24T01:46:30+0000",
+      "distance": 89.6803,
+      "contact": {
+        "email": "animalovers@empireone.net",
+        "phone": "(518) 348-3903 ext. 1",
+        "address": {
+          "address1": "P.O. Box 6426",
+          "address2": null,
+          "city": "Albany",
+          "state": "NY",
+          "postcode": "12206",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072280" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny64" }
+      }
+    },
+    {
+      "id": 53072278,
+      "organization_id": "NY1346",
+      "url": "https://www.petfinder.com/cat/tootsie-53072278/ny/horseheads/horseheads-community-animal-shelter-ny1346/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Long Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Dilute Tortoiseshell",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Gentle",
+        "Playful",
+        "Brave",
+        "Funny"
+      ],
+      "name": "Tootsie",
+      "description": "PLEASE NOTE: Not at the shelter but currently being fostered  with one of our employees.\n\n(9/23/21 Update: Tootsie is still...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/1/?bust=1632447966\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/1/?bust=1632447966\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/1/?bust=1632447966\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/1/?bust=1632447966"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/2/?bust=1632447967\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/2/?bust=1632447967\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/2/?bust=1632447967\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/2/?bust=1632447967"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/1/?bust=1632447966\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/1/?bust=1632447966\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/1/?bust=1632447966\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072278/1/?bust=1632447966"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:46:08+0000",
+      "published_at": "2021-09-24T01:46:08+0000",
+      "distance": 87.6273,
+      "contact": {
+        "email": "office@horseheadscommunityanimalshelter.com",
+        "phone": "(607) 739-3945",
+        "address": {
+          "address1": "150 Wygant Road",
+          "address2": null,
+          "city": "Horseheads",
+          "state": "NY",
+          "postcode": "14845",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072278" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny1346" }
+      }
+    },
+    {
+      "id": 53072263,
+      "organization_id": "NY1346",
+      "url": "https://www.petfinder.com/cat/rita-53072263/ny/horseheads/horseheads-community-animal-shelter-ny1346/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White",
+        "secondary": "Tabby (Tiger Striped)",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": false, "cats": false },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Loyal",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Curious",
+        "Independent",
+        "Funny",
+        "Quiet",
+        "Loves kisses"
+      ],
+      "name": "Rita",
+      "description": "Sweet little Rita is an angel who deserves the very best in life. She and her babies were in foster...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/1/?bust=1632447672\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/1/?bust=1632447672\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/1/?bust=1632447672\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/1/?bust=1632447672"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/2/?bust=1632447673\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/2/?bust=1632447673\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/2/?bust=1632447673\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/2/?bust=1632447673"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/3/?bust=1632447673\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/3/?bust=1632447673\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/3/?bust=1632447673\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/3/?bust=1632447673"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/1/?bust=1632447672\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/1/?bust=1632447672\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/1/?bust=1632447672\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072263/1/?bust=1632447672"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:41:15+0000",
+      "published_at": "2021-09-24T01:41:15+0000",
+      "distance": 87.6273,
+      "contact": {
+        "email": "office@horseheadscommunityanimalshelter.com",
+        "phone": "6077393945",
+        "address": {
+          "address1": "150 Wygant Road",
+          "address2": null,
+          "city": "Horseheads",
+          "state": "NY",
+          "postcode": "14845",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072263" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny1346" }
+      }
+    },
+    {
+      "id": 53072250,
+      "organization_id": "NY1346",
+      "url": "https://www.petfinder.com/cat/ronan-53072250/ny/horseheads/horseheads-community-animal-shelter-ny1346/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Gray / Blue / Silver)",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": null, "cats": true },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Funny",
+        "Couch potato",
+        "Quiet",
+        "Athletic"
+      ],
+      "name": "Ronan",
+      "description": "Siblings, Roma (female) and Ronan (male) are 5 month old kittens, looking for a perfect home, together or separate.?\n\nWhile...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/1/?bust=1632447369\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/1/?bust=1632447369\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/1/?bust=1632447369\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/1/?bust=1632447369"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/2/?bust=1632447370\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/2/?bust=1632447370\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/2/?bust=1632447370\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/2/?bust=1632447370"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/3/?bust=1632447370\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/3/?bust=1632447370\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/3/?bust=1632447370\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/3/?bust=1632447370"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/4/?bust=1632447371\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/4/?bust=1632447371\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/4/?bust=1632447371\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/4/?bust=1632447371"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/1/?bust=1632447369\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/1/?bust=1632447369\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/1/?bust=1632447369\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072250/1/?bust=1632447369"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:36:13+0000",
+      "published_at": "2021-09-24T01:36:13+0000",
+      "distance": 87.6273,
+      "contact": {
+        "email": "office@horseheadscommunityanimalshelter.com",
+        "phone": "6077393945",
+        "address": {
+          "address1": "150 Wygant Road",
+          "address2": null,
+          "city": "Horseheads",
+          "state": "NY",
+          "postcode": "14845",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072250" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny1346" }
+      }
+    },
+    {
+      "id": 53072245,
+      "organization_id": "NY1346",
+      "url": "https://www.petfinder.com/cat/roma-53072245/ny/horseheads/horseheads-community-animal-shelter-ny1346/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White",
+        "secondary": "Tabby (Gray / Blue / Silver)",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": null, "cats": true },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Brave",
+        "Funny",
+        "Athletic"
+      ],
+      "name": "Roma",
+      "description": "Siblings, Roma (female) and Ronan (male) are 5 month old kittens, looking for a perfect home, together or separate.?\n\nWhile...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/1/?bust=1632447185\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/1/?bust=1632447185\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/1/?bust=1632447185\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/1/?bust=1632447185"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/2/?bust=1632447186\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/2/?bust=1632447186\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/2/?bust=1632447186\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/2/?bust=1632447186"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/3/?bust=1632447187\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/3/?bust=1632447187\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/3/?bust=1632447187\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/3/?bust=1632447187"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/4/?bust=1632447187\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/4/?bust=1632447187\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/4/?bust=1632447187\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/4/?bust=1632447187"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/1/?bust=1632447185\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/1/?bust=1632447185\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/1/?bust=1632447185\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072245/1/?bust=1632447185"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:33:09+0000",
+      "published_at": "2021-09-24T01:33:09+0000",
+      "distance": 87.6273,
+      "contact": {
+        "email": "office@horseheadscommunityanimalshelter.com",
+        "phone": "6077393945",
+        "address": {
+          "address1": "150 Wygant Road",
+          "address2": null,
+          "city": "Horseheads",
+          "state": "NY",
+          "postcode": "14845",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072245" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny1346" }
+      }
+    },
+    {
+      "id": 53072237,
+      "organization_id": "NY1492",
+      "url": "https://www.petfinder.com/dog/cj-53072237/ny/utica/house-of-paws-rescue-inc-ny1492/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": ["Friendly", "Affectionate", "Playful", "Funny"],
+      "name": "CJ",
+      "description": "Meet CJ. This low rider is 3 year old bully mix. He is sweet, silly and will always make you...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/1/?bust=1632447021\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/1/?bust=1632447021\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/1/?bust=1632447021\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/1/?bust=1632447021"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/2/?bust=1632447021\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/2/?bust=1632447021\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/2/?bust=1632447021\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/2/?bust=1632447021"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/3/?bust=1632447022\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/3/?bust=1632447022\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/3/?bust=1632447022\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/3/?bust=1632447022"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/1/?bust=1632447021\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/1/?bust=1632447021\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/1/?bust=1632447021\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072237/1/?bust=1632447021"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:30:24+0000",
+      "published_at": "2021-09-24T01:30:24+0000",
+      "distance": 15.1764,
+      "contact": {
+        "email": "houseofpawrescue@gmail.com",
+        "phone": "(315) 982-9016",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Utica",
+          "state": "NY",
+          "postcode": "13502",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072237" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ny1492" }
+      }
+    },
+    {
+      "id": 53072232,
+      "organization_id": "NY1346",
+      "url": "https://www.petfinder.com/cat/kiernan-53072232/ny/horseheads/horseheads-community-animal-shelter-ny1346/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown / Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": null, "cats": true },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Loyal",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Funny",
+        "Athletic",
+        "Loves kisses"
+      ],
+      "name": "Kiernan",
+      "description": "Kieran is a beautiful 5 month old male, who is as cuddly as he is playful. He loves to be...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/1/?bust=1632446868\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/1/?bust=1632446868\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/1/?bust=1632446868\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/1/?bust=1632446868"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/2/?bust=1632446869\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/2/?bust=1632446869\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/2/?bust=1632446869\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/2/?bust=1632446869"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/3/?bust=1632446869\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/3/?bust=1632446869\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/3/?bust=1632446869\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/3/?bust=1632446869"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/1/?bust=1632446868\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/1/?bust=1632446868\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/1/?bust=1632446868\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072232/1/?bust=1632446868"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:27:50+0000",
+      "published_at": "2021-09-24T01:27:50+0000",
+      "distance": 87.6273,
+      "contact": {
+        "email": "office@horseheadscommunityanimalshelter.com",
+        "phone": "6077393945",
+        "address": {
+          "address1": "150 Wygant Road",
+          "address2": null,
+          "city": "Horseheads",
+          "state": "NY",
+          "postcode": "14845",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072232" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny1346" }
+      }
+    },
+    {
+      "id": 53072222,
+      "organization_id": "NY1492",
+      "url": "https://www.petfinder.com/dog/garrett-53072222/ny/utica/house-of-paws-rescue-inc-ny1492/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Catahoula Leopard Dog",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "Brown / Chocolate",
+        "tertiary": "White / Cream"
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": ["Friendly", "Affectionate", "Playful", "Smart", "Funny"],
+      "name": "Garrett",
+      "description": "Meet Garrett! He is a fun, silly and amazing little low riders pup. He\u2019s just looking for a home of...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/1/?bust=1632446409\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/1/?bust=1632446409\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/1/?bust=1632446409\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/1/?bust=1632446409"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/2/?bust=1632446410\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/2/?bust=1632446410\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/2/?bust=1632446410\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/2/?bust=1632446410"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/3/?bust=1632446411\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/3/?bust=1632446411\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/3/?bust=1632446411\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/3/?bust=1632446411"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/4/?bust=1632446411\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/4/?bust=1632446411\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/4/?bust=1632446411\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/4/?bust=1632446411"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/1/?bust=1632446409\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/1/?bust=1632446409\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/1/?bust=1632446409\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072222/1/?bust=1632446409"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:20:13+0000",
+      "published_at": "2021-09-24T01:20:13+0000",
+      "distance": 15.1764,
+      "contact": {
+        "email": "houseofpawrescue@gmail.com",
+        "phone": "(315) 982-9016",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Utica",
+          "state": "NY",
+          "postcode": "13502",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072222" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ny1492" }
+      }
+    },
+    {
+      "id": 53072217,
+      "organization_id": "NY1492",
+      "url": "https://www.petfinder.com/dog/nemo-53072217/ny/utica/house-of-paws-rescue-inc-ny1492/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": "White / Cream",
+        "tertiary": "Black"
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": ["Friendly", "Affectionate", "Playful"],
+      "name": "Nemo",
+      "description": "Meet Nemo! He is a 1 year old Aussie mix. This sweet guy is looking for a family to call...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072217/1/?bust=1632446149\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072217/1/?bust=1632446149\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072217/1/?bust=1632446149\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072217/1/?bust=1632446149"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072217/1/?bust=1632446149\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072217/1/?bust=1632446149\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072217/1/?bust=1632446149\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072217/1/?bust=1632446149"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:15:51+0000",
+      "published_at": "2021-09-24T01:15:51+0000",
+      "distance": 15.1764,
+      "contact": {
+        "email": "houseofpawrescue@gmail.com",
+        "phone": "(315) 982-9016",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Utica",
+          "state": "NY",
+          "postcode": "13502",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072217" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ny1492" }
+      }
+    },
+    {
+      "id": 53072195,
+      "organization_id": "NY1492",
+      "url": "https://www.petfinder.com/dog/max-a-million-53072195/ny/utica/house-of-paws-rescue-inc-ny1492/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "Brown / Chocolate",
+        "tertiary": "White / Cream"
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": ["Friendly", "Affectionate", "Playful", "Smart"],
+      "name": "Max- A-Million ",
+      "description": "Meet Max! He is a 1 year old mix breed. This happy wiggly butt is looking for his forever home....",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/1/?bust=1632445585\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/1/?bust=1632445585\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/1/?bust=1632445585\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/1/?bust=1632445585"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/2/?bust=1632445586\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/2/?bust=1632445586\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/2/?bust=1632445586\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/2/?bust=1632445586"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/3/?bust=1632445586\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/3/?bust=1632445586\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/3/?bust=1632445586\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/3/?bust=1632445586"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/1/?bust=1632445585\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/1/?bust=1632445585\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/1/?bust=1632445585\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53072195/1/?bust=1632445585"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-24T01:06:44+0000",
+      "published_at": "2021-09-24T01:06:44+0000",
+      "distance": 15.1764,
+      "contact": {
+        "email": "houseofpawrescue@gmail.com",
+        "phone": "(315) 982-9016",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Utica",
+          "state": "NY",
+          "postcode": "13502",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53072195" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ny1492" }
+      }
+    },
+    {
+      "id": 53071940,
+      "organization_id": "NY392",
+      "url": "https://www.petfinder.com/cat/lucky-53071940/ny/syracuse/cny-cat-coalition-ny392/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tabby",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Leopard / Spotted)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [],
+      "name": "Lucky",
+      "description": "Lucky is a 15-week-old adorable boy who is great with cats and would do well in a house with other...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/1/?bust=1632437732\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/1/?bust=1632437732\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/1/?bust=1632437732\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/1/?bust=1632437732"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/2/?bust=1632437732\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/2/?bust=1632437732\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/2/?bust=1632437732\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/2/?bust=1632437732"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/3/?bust=1632437733\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/3/?bust=1632437733\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/3/?bust=1632437733\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/3/?bust=1632437733"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/4/?bust=1632437733\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/4/?bust=1632437733\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/4/?bust=1632437733\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/4/?bust=1632437733"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/5/?bust=1632437734\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/5/?bust=1632437734\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/5/?bust=1632437734\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/5/?bust=1632437734"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/6/?bust=1632437734\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/6/?bust=1632437734\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/6/?bust=1632437734\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/6/?bust=1632437734"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/1/?bust=1632437732\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/1/?bust=1632437732\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/1/?bust=1632437732\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071940/1/?bust=1632437732"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-23T22:55:36+0000",
+      "published_at": "2021-09-23T22:55:36+0000",
+      "distance": 31.5952,
+      "contact": {
+        "email": "cnycc@outlook.com",
+        "phone": "(315) 289-2287",
+        "address": {
+          "address1": "PO Box 6182",
+          "address2": null,
+          "city": "Syracuse",
+          "state": "NY",
+          "postcode": "13217",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53071940" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny392" }
+      }
+    },
+    {
+      "id": 53071731,
+      "organization_id": "NY1018",
+      "url": "https://www.petfinder.com/cat/mia-53071731/ny/troy/adopt-a-pet-clinic-inc-ny1018/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Maine Coon",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Gray / Blue / Silver)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [],
+      "name": "Mia",
+      "description": "Mia is a pretty 3.5 mth old that is great with cats and dogs",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071731/1/?bust=1632435894\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071731/1/?bust=1632435894\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071731/1/?bust=1632435894\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071731/1/?bust=1632435894"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071731/1/?bust=1632435894\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071731/1/?bust=1632435894\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071731/1/?bust=1632435894\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071731/1/?bust=1632435894"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-23T22:24:55+0000",
+      "published_at": "2021-09-23T22:24:55+0000",
+      "distance": 93.4744,
+      "contact": {
+        "email": "adoptapetclinic1@aol.com",
+        "phone": "(518) 588-0570",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Troy",
+          "state": "NY",
+          "postcode": "12180",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53071731" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny1018" }
+      }
+    },
+    {
+      "id": 53071370,
+      "organization_id": "NY494",
+      "url": "https://www.petfinder.com/dog/abby-53071370/ny/fairport/lollypop-farm-humane-society-of-greater-rochester-ny494/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "German Shepherd Dog",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Abby",
+      "description": null,
+      "organization_animal_id": "43672114",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-23T22:06:22+0000",
+      "published_at": "2021-09-23T22:06:22+0000",
+      "distance": 95.9871,
+      "contact": {
+        "email": "adoptions@lollypop.org",
+        "phone": "(585) 223-1330",
+        "address": {
+          "address1": "99 Victor Road",
+          "address2": null,
+          "city": "Fairport",
+          "state": "NY",
+          "postcode": "14450",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53071370" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ny494" }
+      }
+    },
+    {
+      "id": 53071250,
+      "organization_id": "NY192",
+      "url": "https://www.petfinder.com/cat/fiorella-53071250/ny/cortland/cortland-community-spca-ny192/?referrer_id=154acf95-9d0d-46ad-a6b7-ffd04015665f",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": "Calico", "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Fiorella",
+      "description": null,
+      "organization_animal_id": "CCNY-A-542",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071250/1/?bust=1632434723\u0026width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071250/1/?bust=1632434723\u0026width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071250/1/?bust=1632434723\u0026width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071250/1/?bust=1632434723"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071250/1/?bust=1632434723\u0026width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071250/1/?bust=1632434723\u0026width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071250/1/?bust=1632434723\u0026width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/53071250/1/?bust=1632434723"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2021-09-23T21:55:17+0000",
+      "published_at": "2021-09-23T21:55:17+0000",
+      "distance": 46.4457,
+      "contact": {
+        "email": "ccspca@cortlandspca.org",
+        "phone": "(607) 753-9386",
+        "address": {
+          "address1": "879 McLean Road",
+          "address2": null,
+          "city": "Cortland",
+          "state": "NY",
+          "postcode": "13045",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/53071250" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ny192" }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 2204,
+    "current_page": 1,
+    "total_pages": 111,
+    "_links": {
+      "next": {
+        "href": "/v2/animals?breed=\u0026location=New%20York,%20New%20York\u0026type=\u0026page=2"
+      }
+    }
+  }
+}
+
+
